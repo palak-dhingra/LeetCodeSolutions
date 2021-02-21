@@ -1,6 +1,5 @@
 # LeetCode Solutions
 
-485. <a>Max Consecutive Ones Solution</a> <a href="https://leetcode.com/problems/max-consecutive-ones/">Problem</a>
 
 | LeetCode Problems   |      Solutions      |
 |----------|:-------------:|
